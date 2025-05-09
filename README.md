@@ -1,6 +1,6 @@
 # Zendesk JSON to CSV Converter
 
-A simple web tool for Seymour Duncan's Customer Service team to convert Zendesk ticket exports (in JSON format) into clean, readable CSV files.
+A simple web tool to convert Zendesk ticket exports (in JSON format) into clean, readable CSV files.
 
 Built with Flask and Pandas, this tool extracts relevant conversations from Zendesk export files and formats them for easy review.
 
